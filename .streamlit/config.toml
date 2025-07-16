@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FF69B4"       # Hot pink for buttons
+backgroundColor="#FFF5E1"    # Soft peach background
+secondaryBackgroundColor="#FFEFD5"  # Pale pastel
+textColor="#000000"          # Black text
+font="sans serif"
